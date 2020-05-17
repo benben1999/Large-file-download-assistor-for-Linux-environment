@@ -9,7 +9,13 @@ Download large files (more than 10g) from remote server, there will be sudden in
 
 Problem analysis
 
+case1:
+
 https://forums.wsusoffline.net/viewtopic.php?f=9&t=7069#
+
+case2:
+
+remote server does not support wget -c instruction
 
 Instruction
 
