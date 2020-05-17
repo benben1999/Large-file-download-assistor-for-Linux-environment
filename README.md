@@ -1,13 +1,13 @@
 # Large-file-download-assistor-for-Linux-environment
-Introduction
+1. Introduction
 
 Wget is not suitable for downloading large files, and this script solves this problem
 
-Problem description
+2. Problem description
 
 Download large files (more than 10g) from remote server, there will be sudden interruption in the middle of the phenomenon, sometimes need to re-download from scratch, inefficient.If the file is extremely large (20 gigabytes or more), it is extremely difficult to download, and it is almost impossible to download successfully
 
-Problem analysis
+3. Problem analysis
 
 case1:
 
@@ -17,7 +17,7 @@ case2:
 
 remote server does not support wget -c instruction
 
-Instruction
+4. Instruction
 
 1. Download the python file "download.py"
 2. python download.py [download link] [file size] 
