@@ -19,9 +19,6 @@ remote server does not support wget -c instruction
 
 4. Instruction
 
-1. Download the python file "download.py"
-2. python download.py [download link] [file size] 
-
-for example, python download.py https://baidu.com/index.html 200MB
-
-(if filed, you need install the "curl" toolkit)
+(1) Download the python file "download.py"
+(2) python download.py [download link] [file size] 
+(3) for example, python download.py https://baidu.com/index.html 200MB  (if filed, you need install the "curl" toolkit)
